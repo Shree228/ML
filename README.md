@@ -3,4 +3,4 @@ paste it in colab
 
 or 
 
-copy problem state of pr and paste it in colab's gemini...colab will code itself 
+copy problem statement of pr and paste it in colab's gemini...colab will code itself 
